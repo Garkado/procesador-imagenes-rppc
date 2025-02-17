@@ -1,5 +1,5 @@
 1. Título del Proyecto
-
+MGM
   # Validador de Imágenes
 
 2. Descripción del Proyecto
